@@ -1,2 +1,2 @@
-print(Hello Guys 12)
-ptinr
+print('Hello Guys 12')
+
